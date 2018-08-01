@@ -1,0 +1,157 @@
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this undefined
+Liri response: 
+----------------------
+Title: Undefined
+Released: 2014
+IMDb: N/A
+Rotten Tomatoes: undefined
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Features: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this tombstone
+Liri response: 
+----------------------
+Title: Tombstone
+Released: 1993
+IMDb: 7.8
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English, Latin
+Plot: A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.
+Features: Kurt Russell, Val Kilmer, Sam Elliott, Bill Paxton
+User command: movie-this tombstone
+Liri response: 
+----------------------
+Title: Tombstone
+Released: 1993
+IMDb: 7.8
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English, Latin
+Plot: A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.
+Features: Kurt Russell, Val Kilmer, Sam Elliott, Bill Paxton
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+User command: movie-this 300
+User command: movie-this 300
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
+User command: movie-this 300
+Liri response: 
+----------------------
+Title: 300
+Released: 2006
+IMDb: 7.7
+Rotten Tomatoes: 52/100
+Country Produced: USA
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+Features: Gerard Butler, Lena Headey, Dominic West, David Wenham
